@@ -27,5 +27,4 @@ npm install
 npm run dev 
 
 
-
-
+![Image](https://github.com/user-attachments/assets/578e57a1-3e13-414c-9307-75be413dc307)
