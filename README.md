@@ -16,7 +16,15 @@
 - **server**: Contém a configuração do TypeScript para o servidor.
 - **types**: Contém definições de tipos TypeScript.
 - **test**: Contém os testes unitários escritos com Jest.
-
+- 
+## Observações
+- Obtive um erro de cors, tive que adicionar essas linhas de de codigo no banckend para conseguir fazer a requisição da api(arquivo main.ts)
+   app.enableCors({
+   origin: true,
+   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
+   credentials: true,
+   });
+  
 ## Configuração
 
 Certifique-se de instalar as dependências:
