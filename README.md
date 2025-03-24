@@ -1,5 +1,5 @@
 # Challenge Video Player
-
+![Image](https://github.com/user-attachments/assets/6dee9076-67ab-4572-9993-3bef6d5b9e82)
 ## Tecnologias Utilizadas
 
 - **Nuxt.js**: Framework para aplicações Vue.js.
@@ -25,4 +25,3 @@ Certifique-se de instalar as dependências:
 # npm
 npm install
 npm run dev 
-<img src="https://github.com/user-attachments/assets/6dee9076-67ab-4572-9993-3bef6d5b9e82">
