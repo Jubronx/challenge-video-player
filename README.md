@@ -25,6 +25,4 @@ Certifique-se de instalar as dependências:
 # npm
 npm install
 npm run dev 
-
-
-[Image](https://github.com/user-attachments/assets/578e57a1-3e13-414c-9307-75be413dc307)
+<img src="https://github.com/user-attachments/assets/6dee9076-67ab-4572-9993-3bef6d5b9e82">
