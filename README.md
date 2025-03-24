@@ -18,7 +18,7 @@
 - **test**: Contém os testes unitários escritos com Jest.
 - 
 ## Observações
-- Obtive um erro de cors, tive que adicionar essas linhas de de codigo no banckend para conseguir fazer a requisição da api(arquivo main.ts)
+- Obtive um erro de cors, tive que adicionar essas linhas de codigo no banckend para conseguir fazer a requisição da api(arquivo main.ts)
    app.enableCors({
    origin: true,
    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
